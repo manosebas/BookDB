@@ -3,8 +3,6 @@
 ## Description
 This project involves the implementation of a multi-layered application that connects to a MySQL database, designed to manage book records. The application features a graphical user interface (GUI) developed using QtDesigner and Python, enabling users to perform CRUD (Create, Read, Update, Delete) operations on the database. The project demonstrates the integration of multiple windows for different operations, such as selecting, inserting, updating, and deleting records. The application is highly expandable, with the potential to manage more complex data structures and interactions.
 
-**Short Description:** Database Management App
-
 ## Database Design and Data
 
 **Database UML Diagram**  
